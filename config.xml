@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<port>2345</port>
+	<eth>eth0</eth>
+	<thread_num>10</thread_num>
+	<max_queue_size>10000</max_queue_size>
+	<bitmap>
+		<count>1</count>
+		<order>35</order>
+		<save_file_prefix>save_file</save_file_prefix>
+		<save_interval>10</save_interval>
+	</bitmap>
+</root>
